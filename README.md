@@ -82,9 +82,9 @@ FINAL
 Clone the repository:
 
 
-git clone https://github.com/yourusername/nhl-live-scorebug-overlay.git
+git clone https://github.com/yourusername/nhl-stream-scorebug-api.git
 
-cd nhl-live-scorebug-overlay
+cd nhl-stream-scorebug-api
 
 
 Install dependencies:
